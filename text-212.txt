@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hihihi
 hello!
 =======
@@ -6,3 +7,7 @@ hello!?
 yo
 >>>>>>> Stashed changes
 bye
+=======
+hello!?
+yo
+>>>>>>> Stashed changes
